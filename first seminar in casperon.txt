@@ -1,0 +1,24 @@
+Angular:->{
+version:6,
+langulage:typescript[oops concept],
+compailer:trans
+ compile,
+purpose:single page application[coponents,modules,custome directive,routing],
+advantage:speed,user friendly,two way binding[]
+disadvantage:this is not seo friendly
+cmd:[npm @angular/cli,];{
+	ng new appname
+	ng g c cname,
+	ng g d dname,
+	ng g r rname,
+	ng serve
+	ng build --prod
+}
+}
+
+node & express->{
+	y node used:JS front-end dev can work backend,speed,[golang,nodejs],v8 engine,
+	version: v10.11 , lts v:v8,
+	what is express : 
+	
+}
